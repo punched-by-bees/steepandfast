@@ -28,3 +28,4 @@ git commit -am'commit message goes here'
 git push
 
 message for git commit is an update ex: fixed bug or updated picture
+
